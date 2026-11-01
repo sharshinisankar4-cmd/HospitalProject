@@ -101,6 +101,7 @@ Electronic medical records
 Printable reports
 Real-time notifications
 Advanced patient monitoring
+
 Conclusion
 The Government Hospital Resource Allocation System provides a simple way to manage patient records, monitor bed availability, allocate hospital beds, and maintain admission and discharge information.
 
